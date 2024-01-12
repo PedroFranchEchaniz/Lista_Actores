@@ -21,6 +21,11 @@ class HomeScreen extends StatelessWidget {
                     nombreActor: 'Paco',
                     url:
                         'https://resizing.flixster.com/xtnsozkTuUtYkGMETMLMJfgNTjs=/218x280/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/47162_v9_bc.jpg',
+                  ),
+                  ActorItem(
+                    nombreActor: 'Paco',
+                    url:
+                        'https://resizing.flixster.com/xtnsozkTuUtYkGMETMLMJfgNTjs=/218x280/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/47162_v9_bc.jpg',
                   )
                 ],
               ),

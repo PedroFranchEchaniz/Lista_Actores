@@ -18,7 +18,8 @@ class ActorItem extends StatelessWidget {
         children: [
           Container(
             height: 300,
-            margin: EdgeInsets.only(top: 80.0, left: 20.0),
+            width: 200,
+            margin: EdgeInsets.only(top: 20.0, left: 7.0),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(50.0),
               image: DecorationImage(
